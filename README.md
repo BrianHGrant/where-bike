@@ -2,8 +2,7 @@
 #### Node.js, NPM (backend), Bower(frontend)
 #### DESCRIPTION
 
-This repository contains basic template to setup Node.js based projects for Epicodus JavaScript course.
-
+First version of bike theft application
 #### Contents
 
 * package.json - NPM install file for backend packages
